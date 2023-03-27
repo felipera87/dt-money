@@ -15,6 +15,14 @@
       "category": "Food",
       "price": 50,
       "createdAt": "2023-03-22T14:59:23.785Z"
+    },
+    {
+      "id": 3,
+      "description": "Bootcamp",
+      "type": "outcome",
+      "category": "Course",
+      "price": 1830,
+      "createdAt": "2023-03-23T14:59:23.785Z"
     }
   ]
 }
