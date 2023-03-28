@@ -23,6 +23,30 @@
       "category": "Course",
       "price": 1830,
       "createdAt": "2023-03-23T14:59:23.785Z"
+    },
+    {
+      "category": "Food",
+      "description": "Bread",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2023-03-28T00:38:00.313Z",
+      "id": 4
+    },
+    {
+      "category": "Games",
+      "description": "Playstation",
+      "price": 5000,
+      "type": "outcome",
+      "createdAt": "2023-03-28T00:38:25.894Z",
+      "id": 5
+    },
+    {
+      "category": "Work",
+      "description": "App development",
+      "price": 22500,
+      "type": "income",
+      "createdAt": "2023-03-28T00:39:01.220Z",
+      "id": 6
     }
   ]
 }
